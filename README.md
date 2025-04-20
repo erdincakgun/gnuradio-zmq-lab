@@ -1,6 +1,6 @@
 # GNU Radio ZMQ Lab
 
-## The Stack
+## The Stack
 
 - Anaconda
 - GNU Radio
